@@ -8,7 +8,7 @@ I’m passionate about building scalable backend infrastructure and automating e
 My main focus is on Java (Spring Boot) and DevOps practices (Linux, Docker, CI/CD).  
 I aim to bridge development and operations — writing clean code and making it production-ready from day one.  
 
-📍 Based in Moscow, relocating to Germany soon  
+📍 Based in Moscow, relocating to Europe soon  
 🎓 Graduated with honors in Infocommunication Systems  
   
 
