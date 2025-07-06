@@ -1,5 +1,5 @@
 # Hi, I'm Iaroslav Arsinevich 👋  
-**DevOps + Java Backend Developer in Progress** | *Relocating to Germany 🇩🇪*
+**DevOps + Java Backend Developer in Progress** |
 
 ---
 
