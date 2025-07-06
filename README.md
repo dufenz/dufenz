@@ -1,45 +1,45 @@
-<h1 align="center">Hi, I'm Iaroslav Arsinevich 👋</h1>
-<h3 align="center">DevOps + Java Developer in progress | Moving to Germany 🇩🇪</h3>
+# Hi, I'm Iaroslav Arsinevich 👋  
+**DevOps + Java Backend Developer in Progress** | *Relocating to Germany 🇩🇪*
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
+I’m passionate about building scalable backend infrastructure and automating everything I can.  
+My main focus is on Java (Spring Boot) and DevOps practices (Linux, Docker, CI/CD).  
+I aim to bridge development and operations — writing clean code and making it production-ready from day one.  
 
-- 🛠 I build scalable backend infrastructure and automate everything.
-- 🌐 Currently focused on **Java (Spring Boot)** and **DevOps (Linux, Docker, CI/CD)**.
-- 📍 Based in **Moscow**, relocating to **Germany** soon.
-- 💬 Ask me about **backend architecture, GitHub Actions, or networking**.
-- 📚 Recently graduated with honors in *Infocommunication Systems*.
-- 📈 Preparing for **Duolingo English Test 115+** and university admission in Europe.
-
----
-
-### 🧠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+📍 Based in Moscow, relocating to Germany soon  
+🎓 Graduated with honors in Infocommunication Systems  
+📚 Preparing for Duolingo English Test 115+ and university admission in Europe  
 
 ---
 
-### 📌 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [System Metrics API](https://github.com/dufenz/system-metrics-api) | Monitor Linux system metrics via REST API | Java, OS, JSON |
-| [Weather Aggregator](https://github.com/dufenz/weather-aggregator-api) | Aggregates weather from multiple APIs | Java, OpenWeatherMap |
-| [Telegram Bot](https://github.com/dufenz/MyTelegramBot) | Mail notifications via Telegram | Python, Telegram API |
-| [User API CLIK](https://github.com/dufenz/user-api-clik) | Sample Java REST service | Java, Maven |
+## 🛠️ Tech Stack  
+**Languages & Frameworks**: Java, Python, Spring Boot  
+**Tools & Platforms**: Docker, GitHub Actions, Linux, CI/CD  
+**Databases**: PostgreSQL, JSON-based APIs  
 
 ---
 
-### 📫 How to reach me
+## 🌐 Projects (Public Highlights)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iaroslav-arsinevich-600f95787/)
-- 📬 Email: [arsinevic@gmail.com](mailto:arsinevic@gmail.com)
-- 🌐 GitHub: [dufenz](https://github.com/dufenz)
+- **System Metrics API**  
+  Monitor Linux system metrics via REST API — *(Java, OS, JSON)*
+
+- **Weather Aggregator API**  
+  Aggregates weather data from multiple providers — *(Java, OpenWeatherMap)*
+
+- **Telegram Notifier Bot**  
+  Sends system notifications to Telegram — *(Python, Telegram API)*
+
+- **User API CLIK**  
+  Sample REST service with Java and Maven — *(Java, Maven)*
+
+---
+
+## 📫 Reach Me  
+🔹 Email: arsinevic@gmail.com  
+🔹 LinkedIn: [link in profile]  
+🔹 GitHub: [dufenz](https://github.com/dufenz)
 
 ---
