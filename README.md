@@ -10,7 +10,7 @@ I aim to bridge development and operations — writing clean code and making it 
 
 📍 Based in Moscow, relocating to Germany soon  
 🎓 Graduated with honors in Infocommunication Systems  
-📚 Preparing for Duolingo English Test 115+ and university admission in Europe  
+  
 
 ---
 
