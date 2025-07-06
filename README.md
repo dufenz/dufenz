@@ -39,7 +39,7 @@
 ### 📫 How to reach me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iaroslav-arsinevich-600f95787/)
-- 📬 Email: [dufenz.dev@gmail.com](mailto:dufenz.dev@gmail.com)
+- 📬 Email: [arsinevic@gmail.com](mailto:arsinevic@gmail.com)
 - 🌐 GitHub: [dufenz](https://github.com/dufenz)
 
 ---
