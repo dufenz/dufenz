@@ -1,5 +1,5 @@
 # Hi, I'm Iaroslav Arsinevich 👋  
-**DevOps + Java Backend Developer in Progress** |
+**DevOps + Java Backend Developer in Progress** | This is my new account for professional activities. 
 
 ---
 
