@@ -8,7 +8,7 @@
 Building production-grade backend systems.  
 Automating infrastructure from code to deployment.
 
-🔗 **Featured Project:** [NOVA Platform](https://github.com/dufenz/nova-platform)
+🔗 **Featured Project:** [NOVA Platform](https://github.com/dufenz/nova-project)
 
 ---
 
