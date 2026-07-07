@@ -1,29 +1,48 @@
-# Hi, I'm Iaroslav Arsinevich 👋  
-**DevOps + Java Backend Developer in Progress** | This is my new account for professional activities. 
+# 🚀 Iaroslav Arsinevich
+### DevOps & Java Backend Engineer
 
 ---
 
-## 🚀 About Me  
-I’m passionate about building scalable backend infrastructure and automating everything I can.  
-My main focus is on Java (Spring Boot) and DevOps practices (Linux, Docker, CI/CD).  
-I aim to bridge development and operations — writing clean code and making it production-ready from day one.  
+## About
 
-📍 Based in Moscow, relocating to Europe soon  
-🎓 Graduated with honors in Infocommunication Systems  
-  
+Building production-grade backend systems.  
+Automating infrastructure from code to deployment.
+
+🔗 **Featured Project:** [NOVA Platform](https://github.com/dufenz/nova-platform)
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Frameworks**: Java, Python, Spring Boot  
-**Tools & Platforms**: Docker, GitHub Actions, Linux, CI/CD  
-**Databases**: PostgreSQL, JSON-based APIs  
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-green)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-## 🌐 Projects (Public Highlights)
+## NOVA Platform
 
+Infrastructure monitoring system for Linux servers.
 
+**What it does:**
+- Monitors system resources: CPU, RAM, disk usage (saved to PostgreSQL)
+- Process management: systemd daemon controls and restarts failed services
+- Health checks: Spring Boot REST API verifies service status
+- Centralized logging: all logs aggregated in one place
+- Automated deployment: GitHub Actions builds Docker image on push
+
+**Built with:** Java 21, Spring Boot 3, PostgreSQL, Docker, GitHub Actions, Linux, Bash
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Backend** | Java 21, Spring Boot 3, Spring Data JPA, Spring Security |
+| **Database** | PostgreSQL, H2, SQL |
+| **DevOps** | Linux, Docker, Docker Compose, GitHub Actions, Bash, systemd |
+| **Testing** | JUnit 5, Mockito, Testcontainers |
+| **Tools** | Git, Maven, Postman, IntelliJ IDEA |
 ---
 
 ## 📫 Reach Me  
