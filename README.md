@@ -23,17 +23,6 @@ I aim to bridge development and operations — writing clean code and making it 
 
 ## 🌐 Projects (Public Highlights)
 
-- **System Metrics API**  
-  Monitor Linux system metrics via REST API — *(Java, OS, JSON)*
-
-- **Weather Aggregator API**  
-  Aggregates weather data from multiple providers — *(Java, OpenWeatherMap)*
-
-- **Telegram Notifier Bot**  
-  Sends system notifications to Telegram — *(Python, Telegram API)*
-
-- **User API CLIK**  
-  Sample REST service with Java and Maven — *(Java, Maven)*
 
 ---
 
